@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Version-1.0-brightgreen.svg?style=shields">
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/ZexDev4/ConfigHc">
   </p>
-  <h4> All httpCustom config  </h4>
+  <h4> Bruteforce Facebook No Login </h4>
 </div>
 
 ### Apa itu BruteZ?
