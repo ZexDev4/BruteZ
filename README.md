@@ -11,7 +11,7 @@
 </div>
 
 ### Apa itu BruteZ?
-[**BruteZ**](https://github.com/ZexDev4/BruteZ/) adalah sebuah alat untuk Bruteforce Facebook dengan metode email random dan file. dan alat ini berbayar 
+[**BruteZ**](https://github.com/ZexDev4/BruteZ/) adalah sebuah alat untuk Bruteforce Facebook dengan metode email random dan file. dan alat ini free & tidak berbayar 
 
 ### Termux command?
 ```python
@@ -21,8 +21,8 @@ $ pkg install python
 $ termux-setup-storage
 $ git clone https://github.com/ZexDev4/BruteZ
 $ cd BruteZ
-$ pip install -r instalmodule.txt
-$ python run.py
+$ pip install -r requirement.txt
+$ bash brute.sh
 ```
 ### terimakasih kepada.
  - `Xenzi-XN1`
